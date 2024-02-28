@@ -1,0 +1,17 @@
+.custom-ion-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.custom-div {
+    background-color: #f9f7f7;
+    border: 1px solid #e4e2e2;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.error-text {
+    color: red;
+}

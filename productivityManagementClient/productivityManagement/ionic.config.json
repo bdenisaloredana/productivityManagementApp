@@ -1,0 +1,7 @@
+{
+  "name": "productivityManagement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

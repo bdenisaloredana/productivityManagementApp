@@ -1,0 +1,11 @@
+.lists-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  
+.lists-container ion-card {
+  width: 200px;
+  margin-right: 10px;
+}
+  

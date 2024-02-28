@@ -1,0 +1,13 @@
+.crossed-out{
+    text-decoration: line-through;
+}
+
+.faded-item {
+    opacity: 0.5;
+}
+
+.task-deadline,
+.task-status,
+.task-delete {
+  padding: 10px;
+}
